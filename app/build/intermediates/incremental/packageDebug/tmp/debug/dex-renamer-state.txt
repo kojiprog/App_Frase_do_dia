@@ -1,0 +1,4 @@
+#Sun Sep 13 11:50:51 BRT 2020
+base.0=E\:\\web_project\\ws-androidStudio\\projeto_frasesDoDia\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
